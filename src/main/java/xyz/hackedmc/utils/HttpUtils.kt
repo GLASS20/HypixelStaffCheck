@@ -11,7 +11,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 /**
- * NekoCat Hacked Client
+ * LiquidBounce Hacked Client
  * A minecraft forge injection client using Mixin
  *
  * @game Minecraft

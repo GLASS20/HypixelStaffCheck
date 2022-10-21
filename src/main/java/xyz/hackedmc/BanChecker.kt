@@ -19,7 +19,7 @@ class BanChecker {
 
         val checkTimer = MSTimer()
 
-        println("${ANSI_CYAN}Hypixel BanCheck Time: ${System.currentTimeMillis()} By GLASS20${ANSI_WHITE}")
+        println("${ANSI_CYAN}Hypixel BanCheck By GLASS20${ANSI_WHITE}")
         while (true) {
             if (checkTimer.hasTimePassed(60000L)) {
                 try {
